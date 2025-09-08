@@ -1,12 +1,12 @@
 ## 目录
-1. 课程介绍
-2. 计算机视觉在AI中的定位
-3. 视觉的历史与重要性
-4. 计算机视觉发展历程
-5. 深度学习革命与突破
-6. 计算机视觉任务与应用
-7. 课程大纲与学习目标
-8. 总结
+1. [课程介绍](#1-课程介绍)
+2. [计算机视觉在AI中的定位](#2-计算机视觉在ai中的定位)
+3. [视觉的历史与重要性](#3-视觉的历史与重要性)
+4. [计算机视觉发展历程](#4-计算机视觉发展历程)
+5. [深度学习革命与突破](#5-深度学习革命与突破)
+6. [计算机视觉任务与应用](#6-计算机视觉任务与应用)
+7. [课程大纲与学习目标](#7-课程大纲与学习目标)
+8. [总结](#总结)
 
 ---
 
@@ -50,7 +50,7 @@
 - **进化意义**：  
   - 视觉与触觉成为最古老的感官  
   - 推动神经系统与智能发展  
-- *![](./static/screenshots/screenshot_000_36ff2d93-e54c-4091-a34d-ac2b55579949.jpg)*
+ *![](./static/screenshots/screenshot_000_36ff2d93-e54c-4091-a34d-ac2b55579949.jpg)*
 
 ### 3.2 人类视觉系统
 - **神经基础**：  
@@ -59,7 +59,7 @@
 - **感知特性**：  
   - 快速识别能力（150ms内完成物体分类）  
   - 专业化脑区：面部识别、场景识别等  
-- *![](./static/screenshots/screenshot_001_c24bf3bc-a246-44a1-91e1-ebe64a60bc9c.jpg)*
+ *![](./static/screenshots/screenshot_001_c24bf3bc-a246-44a1-91e1-ebe64a60bc9c.jpg)*
 
 ---
 
@@ -71,7 +71,7 @@
 - **学科诞生**：  
   - 1963年Larry Roberts首篇计算机视觉博士论文（形状分析）  
   - 1966年MIT"夏季项目"（目标：一夏天解决视觉问题）  
-- *![](./static/screenshots/screenshot_002_5dca3696-fa7d-49f3-92b9-84eb9b55ea25.jpg)*
+ *![](./static/screenshots/screenshot_002_5dca3696-fa7d-49f3-92b9-84eb9b55ea25.jpg)*
 
 ### 4.2 理论奠基（1970s-1980s）
 - **David Marr框架**：  
@@ -80,7 +80,7 @@
     2. 2.5D草图 → 深度分离  
     3. 3D模型 → 完整空间重建  
   - 核心挑战：从2D图像恢复3D信息（不适定问题）  
-- *![](./static/screenshots/screenshot_003_0c7129cd-6c69-47ed-a15b-9582cc3f44f0.jpg)*
+  *![](./static/screenshots/screenshot_003_0c7129cd-6c69-47ed-a15b-9582cc3f44f0.jpg)*
 
 ### 4.3 AI寒冬期（1980s-1990s）
 - **技术瓶颈**：  
@@ -90,7 +90,7 @@
 - **重要进展**：  
   - Fukushima的Neocognitron（卷积神经网络雏形）  
   - 1986年反向传播算法（Rumelhart, Hinton等）  
-- *![](./static/screenshots/screenshot_004_182d0306-3d7b-476d-a191-7fb3dd08581b.jpg)*
+  *![](./static/screenshots/screenshot_004_182d0306-3d7b-476d-a191-7fb3dd08581b.jpg)*
 
 ---
 
@@ -102,7 +102,7 @@
 - **2012年ImageNet竞赛**：  
   - AlexNet（Hinton团队）将错误率从28%降至15%  
   - 标志现代AI/深度学习时代开端  
-- *![](./static/screenshots/screenshot_005_b4f42bbd-e7d5-4ec5-81a0-ba2e7010cdf3.jpg)*
+  *![](./static/screenshots/screenshot_005_b4f42bbd-e7d5-4ec5-81a0-ba2e7010cdf3.jpg)*
 
 ### 5.2 技术突破要素
 - **三大支柱**：  
@@ -112,7 +112,7 @@
 - **硬件演进**：  
   - NVIDIA GPU每美元算力提升（2020年后爆发式增长）  
   - 支撑万亿参数模型训练  
-- *![](./static/screenshots/screenshot_006_5da06c89-01f8-4f1a-bf2b-9d75ebf1902b.jpg)*
+  *![](./static/screenshots/screenshot_006_5da06c89-01f8-4f1a-bf2b-9d75ebf1902b.jpg)*
 
 ---
 
@@ -123,7 +123,7 @@
   - 目标检测（Object Detection）  
   - 语义分割（Semantic Segmentation）  
   - 实例分割（Instance Segmentation）  
-- *![](./static/screenshots/screenshot_007_a04881fd-c030-4465-8ce7-cd6052f338f6.jpg)*
+  *![](./static/screenshots/screenshot_007_a04881fd-c030-4465-8ce7-cd6052f338f6.jpg)*
 
 ### 6.2 高级任务
 - **视频理解**：  
@@ -136,7 +136,7 @@
 - **3D视觉**：  
   - 三维重建（NeRF技术）  
   - 单视图3D检测  
-- *![](./static/screenshots/screenshot_008_0d07216f-1900-451a-ac37-1f3af31012b4.jpg)*
+  *![](./static/screenshots/screenshot_008_0d07216f-1900-451a-ac37-1f3af31012b4.jpg)*
 
 ### 6.3 应用领域
 - **医疗健康**：  
@@ -162,7 +162,7 @@
 ### 7.2 实践项目
 - **Assignment 3**：实现文本生成表情符号的扩散模型  
   - 示例：输入"a face with a cowboy hat" → 生成对应表情  
-- *![](./static/screenshots/screenshot_009_86698117-83e2-4ab1-8e09-7272cefd9f12.jpg)*
+  *![](./static/screenshots/screenshot_009_86698117-83e2-4ab1-8e09-7272cefd9f12.jpg)*
 
 ### 7.3 学习目标
 - 掌握计算机视觉任务的形式化方法  
